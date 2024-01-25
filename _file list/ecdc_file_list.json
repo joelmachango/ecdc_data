@@ -1,0 +1,22 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"joelmachango/ecdc_data/main/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"joelmachango/ecdc_data/main/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"joelmachango/ecdc_data/main/testing.csv",
+        "sinkFileName":"testing.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"joelmachango/ecdc_data/main/country_response.csv",
+        "sinkFileName":"country_response.csv"
+    }
+]
